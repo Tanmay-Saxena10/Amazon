@@ -1,5 +1,6 @@
 # Amazon
-This is a Amazon clone Using HTML,CSS
+This is a Amazon clone Using HTML,CSS <br>
+https://tanmay-saxena10.github.io/Amazon/
 
 # Features
 1) Display a list of products with images, names, and prices.<br>
